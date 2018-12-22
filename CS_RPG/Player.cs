@@ -8,8 +8,6 @@ namespace CS_RPG
 {
     class Player
     {
-        //public static Weapon initial_sword = new Weapon("Initial Sword", 8, 4);
-
         public string name;
         public int HP;
         public int level = 0;
